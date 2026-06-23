@@ -10,7 +10,7 @@ I enjoy transforming ideas into real products and exploring how data can solve r
 ## 🚀 Current Focus
 
 * 🎵 Developed **MusicVerse** – Personalized Music Recommendation Platform
-* 🛡️ Researching **SentinelAI** – Secure Multi-Agent Middleware for LLM Systems
+* 🌿 Develpoed **Smart Agriculture AI** - Leaf disease detection and crop recommendation 
 * 🏏 Exploring Data Science applications in Cricket Analytics
 * 🤖 Learning Recommendation Systems, LLM Security, and AI Agents
 * 📈 Developing strong Full-Stack and Product Engineering skills
@@ -72,15 +72,17 @@ Personalized Music Recommendation and Discovery Platform
 
 ---
 
-### 🌿 Plant Leaf Disease Detection
+### 🌿 Smart Agriculture AI
 
-Deep Learning-based crop disease detection system
+An end-to-end AI-powered agriculture platform for plant disease detection and crop recommendation.
 
-* CNN-Based Image Classification
-* Disease Prediction from Leaf Images
-* Flask Deployment
-* Agricultural AI Applications
-
+🔹 CNN (MobileNetV2) for Plant Disease Classification  
+🔹 Vision Transformer (ViT) for Advanced Image Analysis  
+🔹 Grad-CAM for Explainable AI (XAI) Visualization  
+🔹 Random Forest for Crop Recommendation  
+🔹 Flask-based Full-Stack Deployment  
+🔹 AI-powered Agricultural Assistance Chatbot  
+🔹 Precision Agriculture & Sustainable Farming Solutions
 ---
 
 ## 🎯 Areas of Interest
@@ -115,7 +117,7 @@ I enjoy turning random ideas into working products — whether it's a music reco
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/madhu-sudhan-c-304636378](http://www.linkedin.com/in/madhu-sudhan-c-304636378)
-* GitHub: https://github.com/maddy8420
+* GitHub: https://github.com/maddy842
 
 ---
 
