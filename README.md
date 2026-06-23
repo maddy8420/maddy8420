@@ -117,7 +117,7 @@ I enjoy turning random ideas into working products — whether it's a music reco
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/madhu-sudhan-c-304636378](http://www.linkedin.com/in/madhu-sudhan-c-304636378)
-* GitHub: https://github.com/maddy842
+* GitHub: https://github.com/maddy8420
 
 ---
 
