@@ -76,13 +76,13 @@ Personalized Music Recommendation and Discovery Platform
 
 An end-to-end AI-powered agriculture platform for plant disease detection and crop recommendation.
 
-🔹 CNN (MobileNetV2) for Plant Disease Classification  
-🔹 Vision Transformer (ViT) for Advanced Image Analysis  
-🔹 Grad-CAM for Explainable AI (XAI) Visualization  
-🔹 Random Forest for Crop Recommendation  
-🔹 Flask-based Full-Stack Deployment  
-🔹 AI-powered Agricultural Assistance Chatbot  
-🔹 Precision Agriculture & Sustainable Farming Solutions
+* CNN (MobileNetV2) for Plant Disease Classification  
+* Vision Transformer (ViT) for Advanced Image Analysis  
+* Grad-CAM for Explainable AI (XAI) Visualization  
+* Random Forest for Crop Recommendation  
+* Flask-based Full-Stack Deployment  
+* AI-powered Agricultural Assistance Chatbot  
+* Precision Agriculture & Sustainable Farming Solutions
 ---
 
 ## 🎯 Areas of Interest
