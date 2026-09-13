@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Madhu Sudhan C
+# Hi there, I'm Madhu Sudhan C
 
 ### B.Tech Computer Science Student (Data Science Major) | Aspiring ML Engineer | Builder
 
@@ -7,17 +7,17 @@ I'm a B.Tech Computer Science student at RV University specializing in Data Scie
 I enjoy transforming ideas into real products and exploring how data can solve real-world problems across music, healthcare, sports, and AI systems.
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-* 🎵 Developed **MusicVerse** – Personalized Music Recommendation Platform
-* 🌿 Develpoed **Smart Agriculture AI** - Leaf disease detection and crop recommendation 
-* 🏏 Exploring Data Science applications in Cricket Analytics
-* 🤖 Learning Recommendation Systems, LLM Security, and AI Agents
-* 📈 Developing strong Full-Stack and Product Engineering skills
+* Developed **MusicVerse** – Personalized Music Recommendation Platform
+* Develpoed **Smart Agriculture AI** - Leaf disease detection and crop recommendation 
+* Exploring Data Science applications in Analytics
+* Learning Recommendation Systems, LLM Security, and AI Agents
+* Developing strong Full-Stack and Product Engineering skills
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddy8420\&show_icons=true\&theme=tokyonight)
 
@@ -55,9 +55,9 @@ I enjoy transforming ideas into real products and exploring how data can solve r
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🎵 MusicVerse
+### MusicVerse
 
 Personalized Music Recommendation and Discovery Platform
 
@@ -72,7 +72,7 @@ Personalized Music Recommendation and Discovery Platform
 
 ---
 
-### 🌿 Smart Agriculture AI
+### Smart Agriculture AI
 
 An end-to-end AI-powered agriculture platform for plant disease detection and crop recommendation.
 
@@ -85,7 +85,7 @@ An end-to-end AI-powered agriculture platform for plant disease detection and cr
 * Precision Agriculture & Sustainable Farming Solutions
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 * Recommendation Systems
 * Machine Learning
@@ -98,13 +98,13 @@ An end-to-end AI-powered agriculture platform for plant disease detection and cr
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy turning random ideas into working products — whether it's a music recommendation platform, AI security framework, sports analytics system, or healthcare application.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Advanced Recommendation Systems
 * LLM Security & Red Teaming
@@ -114,7 +114,7 @@ I enjoy turning random ideas into working products — whether it's a music reco
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/madhu-sudhan-c-304636378](http://www.linkedin.com/in/madhu-sudhan-c-304636378)
 * GitHub: https://github.com/maddy8420
