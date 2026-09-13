@@ -121,6 +121,6 @@ I enjoy turning random ideas into working products — whether it's a music reco
 
 ---
 
-### 💡 Motto
+### Motto
 
 > "Building intelligent systems that people can trust."
