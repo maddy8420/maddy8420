@@ -15,15 +15,7 @@ I enjoy transforming ideas into real products and exploring how data can solve r
 * Learning Recommendation Systems, LLM Security, and AI Agents
 * Developing strong Full-Stack and Product Engineering skills
 
----
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddy8420\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maddy8420\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🛠️ Tech Stack
 
